@@ -7,7 +7,7 @@ A fully interactive, responsive, and accessible Kanban Board built with **React*
 ## 🔗 Live Storybook
 
 Check out the live component demos here:
-[Your Deployed Storybook URL](#)
+[Deployed Storybook URL](https://kanbanbordcomop.netlify.app/?path=/story/components-kanbanboard--default)
 
 ---
 
