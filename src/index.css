@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+/* optional: small helper so we can easily see missing classes */
+.debug-border { border: 1px dashed magenta; }
+
+
